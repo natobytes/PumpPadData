@@ -1,0 +1,10 @@
+{
+    "dailyTasks": [
+        {
+            "id": "1",
+            "url": "www.google.pt",
+            "title": "Google",
+            "description": "go to google"
+        }
+    ]
+}
