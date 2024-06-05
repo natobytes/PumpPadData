@@ -10,7 +10,7 @@
             "id": "clash",
             "order": 2,
             "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/coins/clash.png",
-            "title": "Clash"
+            "name": "Clash"
         }
     ]
 }
