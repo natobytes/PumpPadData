@@ -2,33 +2,39 @@
     "socials": [
         {
             "id": "1",
-            "url": "https://x.com/ClashOnSolana",
+            "url": "https://twitter.com/lenis_coin",
             "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/x.svg",
             "title": "X"
         },
         {
             "id": "2",
-            "url": "https://celebrityclashmatch.com/",
+            "url": "https://lenis.in/",
             "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/clash.svg",
             "title": "Website"
         },
         {
             "id": "3",
-            "url": "https://t.me/+jyQdc__wAOU0M2Zk",
+            "url": "https://t.me/+RZKNXva8yg8zYmRk",
             "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/telegram.svg",
             "title": "Telegram"
         },
         {
             "id": "4",
-            "url": "https://www.youtube.com/@CelebrityClashMatch",
+            "url": "https://www.youtube.com/@LenisCoin",
             "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/youtube.svg",
             "title": "Youtube"
         },
         {
             "id": "4",
-            "url": "https://www.tiktok.com/@celebrityclashmatch",
+            "url": "https://www.tiktok.com/@lenis9920",
             "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/tiktok.svg",
             "title": "TikTok"
+        },
+        {
+            "id": "5",
+            "url": "https://www.instagram.com/leniscoin/",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/instagram.svg",
+            "title": "Instagram"
         }
     ]
 }
