@@ -69,6 +69,12 @@
             "url": "https://ntm.ai/token/ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha",
             "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/ntm.png",
             "title": "NTM"
+        },
+        {
+            "id": "13",
+            "url": "https://coindiscovery.app/coin/clash/overview",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/coindiscovery.png",
+            "title": "CoinDiscovery"
         }
     ]
 }
