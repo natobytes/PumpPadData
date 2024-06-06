@@ -1,0 +1,34 @@
+{
+    "socials": [
+        {
+            "id": "1",
+            "url": "https://x.com/ClashOnSolana",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/x.svg",
+            "title": "X"
+        },
+        {
+            "id": "2",
+            "url": "https://celebrityclashmatch.com/",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/clash.svg",
+            "title": "Website"
+        },
+        {
+            "id": "3",
+            "url": "https://t.me/+jyQdc__wAOU0M2Zk",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/telegram.svg",
+            "title": "Telegram"
+        },
+        {
+            "id": "4",
+            "url": "https://t.me/+jyQdc__wAOU0M2Zk",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/youtube.svg",
+            "title": "Youtube"
+        },
+        {
+            "id": "4",
+            "url": "https://www.tiktok.com/@celebrityclashmatch",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/tiktok.svg",
+            "title": "TikTok"
+        }
+    ]
+}
