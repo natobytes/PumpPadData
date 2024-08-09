@@ -9,7 +9,7 @@
                 {
                     "id": "1",
                     "url": "https://dexscreener.com/solana/4YFmtd3rGqCywAt4KnYZT6iArfyEAZqi4Ggaq9kWxY6S",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/dexscreener.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/dexscreener.png",
                     "title": "Dexscreener"
                 },
                 {
@@ -26,25 +26,25 @@
                 },
                 {
                     "id": "4",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/coinmarketcap.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/coinmarketcap.png",
                     "title": "Coinmarketcap"
                 },
                 {
                     "id": "5",
                     "url": "https://gemsradar.com/coins/lenis",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/gemradar.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/gemradar.png",
                     "title": "GemsRadar"
                 },
                 {
                     "id": "6",
                     "url": "https://birdeye.so/token/2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss?chain=solana",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/birdeye.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/birdeye.png",
                     "title": "Birdeye"
                 },
                 {
                     "id": "7",
                     "url": "https://coincatapult.com/coin/lenis-lenis",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/CoinCatapult.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/CoinCatapult.png",
                     "title": "CoinCatapult"
                 }
             ],
@@ -52,7 +52,7 @@
                 {
                     "id": "1",
                     "url": "https://twitter.com/lenis_coin",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/x.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/x.png",
                     "title": "X"
                 },
                 {
@@ -64,19 +64,19 @@
                 {
                     "id": "3",
                     "url": "https://t.me/+RZKNXva8yg8zYmRk",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/telegram.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/telegram.png",
                     "title": "Telegram"
                 },
                 {
                     "id": "4",
                     "url": "https://www.youtube.com/@LenisCoin",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/youtube.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/youtube.png",
                     "title": "Youtube"
                 },
                 {
                     "id": "4",
                     "url": "https://www.tiktok.com/@lenis9920",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/tiktok.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/tiktok.png",
                     "title": "TikTok"
                 },
                 {
@@ -96,7 +96,7 @@
                 {
                     "id": "1",
                     "url": "https://dexscreener.com/solana/EUmtEmuWnFPmQDcbkn3gXTKkdqA55BNT3v9XkTwwxhdG",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/dexscreener.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/dexscreener.png",
                     "title": "Dexscreener"
                 },
                 {
@@ -108,13 +108,13 @@
                 {
                     "id": "3",
                     "url": "https://coincatapult.com/coin/clash-clash",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/CoinCatapult.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/CoinCatapult.png",
                     "title": "CoinCatapult"
                 },
                 {
                     "id": "4",
                     "url": "https://gemsradar.com/coins/clash",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/gemradar.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/gemradar.png",
                     "title": "GemsRadar"
                 },
                 {
@@ -130,13 +130,13 @@
                 },
                 {
                     "id": "7",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/coinmarketcap.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/coinmarketcap.png",
                     "title": "Coinmarketcap"
                 },
                 {
                     "id": "8",
                     "url": "https://birdeye.so/token/ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha?chain=solana",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/birdeye.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/dailytasks/birdeye.png",
                     "title": "Birdeye"
                 },
                 {
@@ -174,7 +174,7 @@
                 {
                     "id": "1",
                     "url": "https://x.com/ClashOnSolana",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/x.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/x.png",
                     "title": "X"
                 },
                 {
@@ -186,19 +186,19 @@
                 {
                     "id": "3",
                     "url": "https://t.me/+jyQdc__wAOU0M2Zk",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/telegram.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/telegram.png",
                     "title": "Telegram"
                 },
                 {
                     "id": "4",
                     "url": "https://www.youtube.com/@CelebrityClashMatch",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/youtube.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/youtube.png",
                     "title": "Youtube"
                 },
                 {
                     "id": "4",
                     "url": "https://www.tiktok.com/@celebrityclashmatch",
-                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/tiktok.svg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/tiktok.png",
                     "title": "TikTok"
                 }
             ]
