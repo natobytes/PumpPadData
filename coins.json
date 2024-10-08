@@ -3,13 +3,13 @@
         {
             "id": "lenis",
             "order": 1,
-            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/coins/lenis.png",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/lenis.png",
             "name": "Lenis"
         },
         {
             "id": "clash",
             "order": 2,
-            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/coins/clash.png",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/clash.png",
             "name": "Clash"
         }
     ]

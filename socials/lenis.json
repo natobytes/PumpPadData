@@ -3,37 +3,37 @@
         {
             "id": "1",
             "url": "https://twitter.com/lenis_coin",
-            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/x.svg",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/x.svg",
             "title": "X"
         },
         {
             "id": "2",
             "url": "https://lenis.in/",
-            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/lenis.png",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/lenis.png",
             "title": "Website"
         },
         {
             "id": "3",
             "url": "https://t.me/+RZKNXva8yg8zYmRk",
-            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/telegram.svg",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/telegram.svg",
             "title": "Telegram"
         },
         {
             "id": "4",
             "url": "https://www.youtube.com/@LenisCoin",
-            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/youtube.svg",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/youtube.svg",
             "title": "Youtube"
         },
         {
             "id": "4",
             "url": "https://www.tiktok.com/@lenis9920",
-            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/tiktok.svg",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/tiktok.svg",
             "title": "TikTok"
         },
         {
             "id": "5",
             "url": "https://www.instagram.com/leniscoin/",
-            "imageUrl": "https://raw.githubusercontent.com/natobytes/LenisData/main/images/socials/instagram.svg",
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/instagram.svg",
             "title": "Instagram"
         }
     ]
