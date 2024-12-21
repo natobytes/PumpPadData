@@ -310,6 +310,102 @@
                     "title": "Facebook"
                 }
             ]
+        },
+        {
+            "id": "cat-theft-auto",
+            "order": 4,
+            "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/cta.png",
+            "name": "Cat Theft Auto",
+            "dailyTasks": [
+                {
+                    "id": "1",
+                    "url": "https://dexscreener.com/solana/8L45JDin3aTHPq1NgFJj4A4yDtKBAoukauKDKQAZeud4",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/dexscreener.png",
+                    "title": "Dexscreener"
+                },
+                {
+                    "id": "2",
+                    "url": "https://www.dextools.io/app/en/solana/pair-explorer/8L45JDin3aTHPq1NgFJj4A4yDtKBAoukauKDKQAZeud4?t=1734707287340",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/dextools.svg",
+                    "title": "Dextools"
+                },
+                {
+                    "id": "3",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/CoinCatapult.png",
+                    "title": "CoinCatapult"
+                },
+                {
+                    "id": "4",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/gemradar.png",
+                    "title": "GemsRadar"
+                },
+                {
+                    "id": "5",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/CoinGecko.png",
+                    "title": "Coingecko"
+                },
+                {
+                    "id": "6",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/geckoterminal.png",
+                    "title": "Gecko terminal"
+                },
+                {
+                    "id": "7",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/coinmarketcap.png",
+                    "title": "Coinmarketcap"
+                },
+                {
+                    "id": "8",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/birdeye.png",
+                    "title": "Birdeye"
+                },
+                {
+                    "id": "9",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/moontok.png",
+                    "title": "Moontok"
+                },
+                {
+                    "id": "10",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/coinmooner.png",
+                    "title": "Coin Mooner"
+                },
+                {
+                    "id": "11",
+                    "url": "https://top100token.com/address/9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/top100.png",
+                    "title": "Top 100 Token"
+                },
+                {
+                    "id": "12",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/ntm.png",
+                    "title": "NTM"
+                },
+                {
+                    "id": "13",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/dailytasks/coindiscovery.png",
+                    "title": "CoinDiscovery"
+                }
+            ],
+            "socials": [
+                {
+                    "id": "1",
+                    "url": "https://x.com/cattheftautovi",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/x.png",
+                    "title": "X"
+                },
+                {
+                    "id": "2",
+                    "url": "https://t.me/ctasol",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/telegram.png",
+                    "title": "Telegram"
+                },
+                {
+                    "id": "3",
+                    "url": "https://cattheftauto.life",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/cta.png",
+                    "title": "Website"
+                }
+            ]
         }
     ]
 }
