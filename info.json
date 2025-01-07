@@ -5,6 +5,7 @@
             "order": 1,
             "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/lenis.png",
             "name": "Lenis",
+            "buyLink": "https://raydium.io/swap/?inputMint=sol&outputMint=2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss",
             "dailyTasks": [
                 {
                     "id": "1",
@@ -92,6 +93,7 @@
             "order": 2,
             "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/clash.png",
             "name": "Clash",
+            "buyLink": "https://raydium.io/swap/?inputMint=sol&outputMint=ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha",
             "dailyTasks": [
                 {
                     "id": "1",
@@ -208,6 +210,7 @@
             "order": 3,
             "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/chuck.png",
             "name": "Chuck",
+            "buyLink": "https://raydium.io/swap/?inputMint=sol&outputMint=9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM",
             "dailyTasks": [
                 {
                     "id": "1",
@@ -316,6 +319,7 @@
             "order": 4,
             "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/cta.png",
             "name": "Cat Theft Auto",
+            "buyLink": "https://raydium.io/swap/?inputMint=sol&outputMint=DJfRBwZxHvdrQzkLZFGYZmUG5bdKzRrLVrK2NfmMpump",
             "dailyTasks": [
                 {
                     "id": "1",
