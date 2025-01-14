@@ -210,7 +210,8 @@
                     "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/tiktok.png",
                     "title": "TikTok"
                 }
-            ]
+            ],
+            "memes": []
         },
         {
             "id": "chuck",
@@ -319,7 +320,8 @@
                     "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/facebook.png",
                     "title": "Facebook"
                 }
-            ]
+            ],
+            "memes": []
         },
         {
             "id": "cat-theft-auto",
@@ -416,7 +418,8 @@
                     "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/socials/cta.png",
                     "title": "Website"
                 }
-            ]
+            ],
+            "memes": []
         }
     ]
 }
