@@ -97,7 +97,11 @@
             "shills": [
                 {
                     "id": "1",
-                    "text": "A bit shill is shilling #lenis #potatos"
+                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+                },
+                {
+                    "id": "2",
+                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
                 }
             ]
         },
