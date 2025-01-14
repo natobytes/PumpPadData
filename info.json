@@ -93,6 +93,12 @@
                     "imageUrl": "https://s3.observador.pt/wp-content/uploads/2016/09/29124952/meme_770x433_acf_cropped.jpg",
                     "description": "Testing stuff"
                 }
+            ],
+            "shills": [
+                {
+                    "id": "1",
+                    "text": "A bit shill is shilling #lenis #potatos"
+                }
             ]
         },
         {
@@ -211,7 +217,8 @@
                     "title": "TikTok"
                 }
             ],
-            "memes": []
+            "memes": [],
+            "shills": []
         },
         {
             "id": "chuck",
@@ -321,7 +328,8 @@
                     "title": "Facebook"
                 }
             ],
-            "memes": []
+            "memes": [],
+            "shills": []
         },
         {
             "id": "cat-theft-auto",
@@ -419,7 +427,8 @@
                     "title": "Website"
                 }
             ],
-            "memes": []
+            "memes": [],
+            "shills": []
         }
     ]
 }
