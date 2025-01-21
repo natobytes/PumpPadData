@@ -128,6 +128,46 @@
                     "id": "7",
                     "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/THISISLENIS.png",
                     "description": "Testing stuff"
+                },
+                {
+                    "id": "8",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/LenisWifHat.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "9",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/PopcornLenis.jpg",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "10",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/ItsAlive.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "11",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/coqfight.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "12",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/LenisOnTheMoon.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "13",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Blastoff.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "14",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/TopDog.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "15",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/LenisDiamondHands.png",
+                    "description": "Testing stuff"
                 }
             ],
             "shills": [
