@@ -6,6 +6,12 @@
             "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/lenis.png",
             "name": "Lenis",
             "tradeUrl": "https://raydium.io/swap/?inputMint=sol&outputMint=2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss",
+            "info": {
+                "description": "description", 
+                "team": "about the team",
+                "bullish": "Bullish Alpha", 
+                "ca": "0xasfhasdfjhb327fasdh17"
+            },
             "dailyTasks": [
                 {
                     "id": "1",
@@ -111,6 +117,12 @@
             "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/clash.png",
             "name": "Clash",
             "tradeUrl": "https://raydium.io/swap/?inputMint=sol&outputMint=ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha",
+            "info": {
+                "description": "description", 
+                "team": "about the team",
+                "bullish": "Bullish Alpha", 
+                "ca": "0xasfhasdfjhb327fasdh17"
+            },
             "dailyTasks": [
                 {
                     "id": "1",
@@ -230,6 +242,12 @@
             "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/chuck.png",
             "name": "Chuck",
             "tradeUrl": "https://raydium.io/swap/?inputMint=sol&outputMint=9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM",
+            "info": {
+                "description": "description", 
+                "team": "about the team",
+                "bullish": "Bullish Alpha", 
+                "ca": "0xasfhasdfjhb327fasdh17"
+            },
             "dailyTasks": [
                 {
                     "id": "1",
@@ -341,6 +359,12 @@
             "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/coins/cta.png",
             "name": "Cat Theft Auto",
             "tradeUrl": "https://raydium.io/swap/?inputMint=sol&outputMint=DJfRBwZxHvdrQzkLZFGYZmUG5bdKzRrLVrK2NfmMpump",
+            "info": {
+                "description": "description", 
+                "team": "about the team",
+                "bullish": "Bullish Alpha", 
+                "ca": "0xasfhasdfjhb327fasdh17"
+            },
             "dailyTasks": [
                 {
                     "id": "1",
