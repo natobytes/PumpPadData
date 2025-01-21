@@ -7,10 +7,10 @@
             "name": "Lenis",
             "tradeUrl": "https://raydium.io/swap/?inputMint=sol&outputMint=2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss",
             "info": {
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.", 
-                "team": "about the team",
-                "bullish": "Bullish Alpha", 
-                "ca": "0xasfhasdfjhb327fasdh17"
+                "description": "Finally a sophisDICated meme coin, thrust deep into the cryptoverse. And a meme Launchpad for extra comfort.", 
+                "team": "The team is fully KYC'd and audited. A group of friends and crypto lovers that came together to build a funny meme, backed by huge utility. We have built through the bear and are ready to ride the bull! Just join our TG and find out what we are all about!",
+                "bullish": "Phase 1 was to build the PumpPad App, to make shilling our content and completing daily tasks super easy. Phase 2 is building on this so that other real projects can upload their data and give their tokens utility too. Phase 3 will be to develop this further into a platform for project devs to engage with marketers, KOLs and creatives in the space. We want to give people a safe space to engage and keep record of who they liaise with to push their tokens to the moon. The next phases... well, just wait and see. We mean biizniiizzz", 
+                "ca": "2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss"
             },
             "dailyTasks": [
                 {
@@ -96,18 +96,88 @@
             "memes": [
                 {
                     "id": "1",
-                    "imageUrl": "https://s3.observador.pt/wp-content/uploads/2016/09/29124952/meme_770x433_acf_cropped.jpg",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/PepeLenis.jpg",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "2",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/ArmyManLenis.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "3",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/GemLenis.jpg",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "4",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/LenisNyetheScienceGuy.jpg",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "5",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/LenisonBull.jpg",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "6",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Lenisonthebeach.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "7",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/THISISLENIS.png",
                     "description": "Testing stuff"
                 }
             ],
             "shills": [
                 {
                     "id": "1",
-                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+                    "text": "They say size doesn’t matter… But when it comes to pumps, bigger is always better. $LENIS CA: 2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss #Solana #Crypto"
                 },
                 {
                     "id": "2",
-                    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+                    "text": "Some coins are a one-night stand. $LENIS is a long-term commitment. CA: 2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss #HODL #Crypto #Solana"
+                },
+                {
+                    "id": "4",
+                    "text": "You don’t need blue pills for this pump. Just grab some $LENIS and enjoy the ride. CA: 2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss #Solana #Memecoins"
+                },
+                {
+                    "id": "5",
+                    "text": "Rugged? Not with $LENIS. We keep things firm and upright. CA: 2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss #Solana #Crypto"
+                },
+                {
+                    "id": "6",
+                    "text": "Not all pumps are built the same. Some go hard. Some go home. $LENIS stays for the afterparty. CA: 2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss #Crypto #Solana"
+                },
+                {
+                    "id": "7",
+                    "text": "Smooth entry, easy exit. But let’s be real, you won’t want to pull out. $LENIS CA: 2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss #Solana #Crypto"
+                },
+                {
+                    "id": "8",
+                    "text": "Why swipe right when you can just buy $LENIS? Better gains, less heartbreak. CA: 2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss #Solana #Crypto"
+                },
+                {
+                    "id": "9",
+                    "text": "All night long? More like all market long. $LENIS never loses stamina. CA: 2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss #Crypto #Solana"
+                },
+                {
+                    "id": "10",
+                    "text": "I$LENIS holders wake up feeling… satisfied. Other coins promise the moon, we just make sure you have a good time getting there. #Solana #Crypto #SendIt"
+                },
+                {
+                    "id": "11",
+                    "text": "Unlike your ex, $LENIS actually delivers. No rug pulls, just smooth sailing to the top. #Solana #CryptoHumor #StayMoist"
+                },
+                {
+                    "id": "12",
+                    "text": "Other memecoins play hard to get. $LENIS just wants to be held. #Crypto #Solana #HoldMeTight"
+                },
+                {
+                    "id": "13",
+                    "text": "Size matters. And $LENIS is growing fast. Get in early before it's too big to handle. #Crypto #Solana #MoonMission"
                 }
             ]
         },
