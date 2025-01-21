@@ -360,9 +360,7 @@
             "name": "Cat Theft Auto",
             "tradeUrl": "https://raydium.io/swap/?inputMint=sol&outputMint=DJfRBwZxHvdrQzkLZFGYZmUG5bdKzRrLVrK2NfmMpump",
             "info": {
-                "description": "description", 
-                "team": "about the team",
-                "bullish": "Bullish Alpha", 
+                "description": "description",
                 "ca": "0xasfhasdfjhb327fasdh17"
             },
             "dailyTasks": [
