@@ -7,9 +7,9 @@
             "name": "Lenis",
             "tradeUrl": "https://raydium.io/swap/?inputMint=sol&outputMint=2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss",
             "info": {
-                "description": "Finally a sophisDICated meme coin, thrust deep into the cryptoverse. And a meme Launchpad for extra comfort.", 
+                "description": "Finally a sophisDICated meme coin, thrust deep into the cryptoverse. And a meme Launchpad and massive utility for extra comfort.", 
                 "team": "The team is fully KYC'd and audited. A group of friends and crypto lovers that came together to build a funny meme, backed by huge utility. We have built through the bear and are ready to ride the bull! Just join our TG and find out what we are all about!",
-                "bullish": "Phase 1 was to build the PumpPad App, to make shilling our content and completing daily tasks super easy. Phase 2 is building on this so that other real projects can upload their data and give their tokens utility too. Phase 3 will be to develop this further into a platform for project devs to engage with marketers, KOLs and creatives in the space. We want to give people a safe space to engage and keep record of who they liaise with to push their tokens to the moon. The next phases... well, just wait and see. We mean biizniiizzz", 
+                "bullish": "Launched straight to Ray with 69 trillion tokens and awesome tokenomics. Building utility to change the game for memecoins and real crypto projects. Phase 1 was to build the PumpPad App, to make shilling our content and completing daily tasks super easy. Phase 2 is building on this so that other real projects can upload their data and give their tokens utility too. Phase 3 will be to develop this further into a platform for project devs to engage with marketers, KOLs and creatives in the space. We want to give people a safe space to engage and keep record of who they liaise with to push their tokens to the moon. The next phases... well, just wait and see. We mean biizniiizzz", 
                 "ca": "2dT27TYCxCCvfmtQcF4KeEb91PYcZmjYdUMc9MTeGLss"
             },
             "dailyTasks": [
@@ -228,10 +228,10 @@
             "name": "Clash",
             "tradeUrl": "https://raydium.io/swap/?inputMint=sol&outputMint=ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha",
             "info": {
-                "description": "description", 
-                "team": "about the team",
-                "bullish": "Bullish Alpha", 
-                "ca": "0xasfhasdfjhb327fasdh17"
+                "description": "$CLASH is blasting off to the moon like a rocket fueled by savage burns and salty tears, as celebs throw shade from coast to coast across the cryptoverse in epic diss battles with your host, Jo Roastin!", 
+                "team": "Launched by the Lenis PumpPad Team, fully doxxed and KYC'd, this team knows what they are doing.",
+                "bullish": "One of the best communities in crypto. After a whale dumped their supply, it was bought right back up and has been holding strong. NFTs and Merch on the way, where profits are used to buy back and burn $Clash, making it super deflationary. Keep your eyes peeled for big things coming.", 
+                "ca": "ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha"
             },
             "dailyTasks": [
                 {
@@ -343,8 +343,190 @@
                     "title": "TikTok"
                 }
             ],
-            "memes": [],
-            "shills": []
+            "memes": [
+                {
+                    "id": "1",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Brock.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "2",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/CarbiD.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "3",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/ChrisRook.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "4",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/CZ.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "5",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Drayko.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "6",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Funstein.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "7",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/JakePawl.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "8",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Jockman.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "9",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/JokeBoden.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "9",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Kamala.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "10",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Kanyay.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "11",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Kelvin.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "12",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Llama.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "13",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/MarkoSucka.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "14",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/MickiNimaj.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "15",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/MikeTython.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "16",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Moosk.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "17",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Nessi.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "18",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/NMN.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "19",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Pedro.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "20",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/RionRonalds.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "21",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Rolando.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "22",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Saylor.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "22",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Sheldon.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "23",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Smelly.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "24",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/TaylurSniffed.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "25",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/Troomp.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "26",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Clash/WillSmitty.png",
+                    "description": "Testing stuff"
+                }
+            ],
+            "shills": [
+                {
+                    "id": "1",
+                    "text": "Forget DOGE, forget PEPE—$CLASH isn’t just a meme, it’s the roastmaster of Solana. The only token that makes crypto and your ego cry. CA: ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha #Solana #CryptoRoast"
+                },
+                {
+                    "id": "2",
+                    "text": "Other memes promise the moon; $CLASH delivers laughs, burns, and gains. It's the roast we never knew we needed. CA: ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha #Solana #BestMemeCoin"
+                },
+                {
+                    "id": "3",
+                    "text": "$CLASH: The meme that fights back. No rugs, no BS, just roast battles and a token that’s taking over Solana. CA: ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha #CryptoComedy"
+                },
+                {
+                    "id": "4",
+                    "text": "Why is $CLASH the best meme? Because it’s the only token that roasts your favorite influencers and your bad trades. CA: ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha #Solana #MemeCoins"
+                },
+                {
+                    "id": "5",
+                    "text": "$CLASH is the meme that turns FOMO into LOL. Don’t just watch the roasts—own the fire. CA: ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha #Solana #CryptoMeme"
+                },
+                {
+                    "id": "6",
+                    "text": "DOGE walked so $CLASH could roast. And trust me, the burns are worth every sat. CA: ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha #CryptoComedy #Solana"
+                },
+                {
+                    "id": "7",
+                    "text": "$CLASH isn’t just a meme—it’s the heavyweight champ of crypto comedy. The only thing hotter than the market is the roasts. CA: ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha #Solana #CryptoMeme"
+                },
+                {
+                    "id": "8",
+                    "text": "Some tokens promise the moon, but $CLASH gives you something better: entertainment. If you can laugh, you can hold. CA: ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha #CryptoHumor"
+                },
+                {
+                    "id": "9",
+                    "text": "Every $CLASH roast is a reminder that crypto can be fun, savage, and profitable. Why hold boring tokens? CA: ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha #Solana #MemeSeason"
+                },
+                {
+                    "id": "10",
+                    "text": "$CLASH is proof that crypto can still be fun. Buy it, laugh with it, profit from it. CA: ARxeh8TVhbVJ9BBYEjkxgZHr75j5jhPbPYWm6p5ik9ha #BestMemeCoin #Solana"
+                }
+            ]
         },
         {
             "id": "chuck",
@@ -353,10 +535,10 @@
             "name": "Chuck",
             "tradeUrl": "https://raydium.io/swap/?inputMint=sol&outputMint=9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM",
             "info": {
-                "description": "description", 
-                "team": "about the team",
-                "bullish": "Bullish Alpha", 
-                "ca": "0xasfhasdfjhb327fasdh17"
+                "description": "After the original dev dumped his supply, $CHUCK stepped up as CTO because who else could handle the pressure? When the dev hit eject, $CHUCK didn't panic—it flexed. Now it's leading the project, crushing bugs with roundhouse kicks and managing smart contracts with the same focus Chuck Norris uses to balance the universe. Under $CHUCK’s watch, even the blockchain gets a little scared", 
+                "team": "The original dev dumped the marketing supply and his tokens. The rest of the team held on and are helping to push the CTO. There are 4 billion tokens in supply",
+                "bullish": "The community is looking to push this ASAP and ride the bull. Chuck tokens have soared on other chains. It is now time for Solana to have it's own Chuck to a buck", 
+                "ca": "9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM"
             },
             "dailyTasks": [
                 {
@@ -460,8 +642,215 @@
                     "title": "Facebook"
                 }
             ],
-            "memes": [],
-            "shills": []
+            "memes": [
+                {
+                    "id": "1",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/1.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "2",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/2.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "3",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/3.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "4",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/4.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "5",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/5.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "6",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/6.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "7",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/7.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "8",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/8.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "9",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/9.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "10",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/10.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "11",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/11.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "12",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/12.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "13",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/13.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "14",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/14.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "15",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/15.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "16",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/16.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "17",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/17.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "18",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/18.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "19",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/19.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "20",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/20.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "21",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/21.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "22",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/22.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "23",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/23.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "24",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/24.png",
+                    "description": "Testing stuff"
+                },
+                {
+                    "id": "25",
+                    "imageUrl": "https://raw.githubusercontent.com/natobytes/PumpPadData/main/images/memes/Chuck/25.png",
+                    "description": "Testing stuff"
+                }
+            ],
+            "shills": [
+                {
+                    "id": "1",
+                    "text": "$CHUCK isn’t just a coin; it’s the roundhouse kick of crypto. Solana didn’t choose $CHUCK—$CHUCK chose Solana. #Crypto #ChuckNorrisMemes"
+                },
+                {
+                    "id": "2",
+                    "text": "Chuck Norris doesn’t mine crypto. He stares at the blockchain, and the blocks move themselves. $CHUCK #CryptoHumor"
+                },
+                {
+                    "id": "3",
+                    "text": "When Chuck Norris buys $CHUCK, the charts don’t pump—they surrender. CA: 9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM #Solana #MemeCoin"
+                },
+                {
+                    "id": "4",
+                    "text": "Other coins dream of the moon. $CHUCK is already there, holding the door open for you. #ChuckNorrisCrypto"
+                },
+                {
+                    "id": "5",
+                    "text": "Chuck Norris doesn’t need smart contracts. When he speaks, the blockchain obeys. $CHUCK #Solana"
+                },
+                {
+                    "id": "6",
+                    "text": "Bitcoin forks? No. They were split by a $CHUCK roundhouse. That’s why $CHUCK is the real deal. CA: 9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM #CryptoRoast"
+                },
+                {
+                    "id": "7",
+                    "text": "Why hold $CHUCK? Because selling it is considered an act of self-defense. #ChuckNorrisMemeCoin #Solana"
+                },
+                {
+                    "id": "8",
+                    "text": "The SEC won’t regulate $CHUCK. They’re just grateful he lets them exist. #CryptoHumor"
+                },
+                {
+                    "id": "9",
+                    "text": "Chuck Norris doesn’t HODL $CHUCK. The market HODLs because it fears him. CA: 9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM #CryptoComedy"
+                },
+                {
+                    "id": "10",
+                    "text": "When Chuck Norris makes a transaction, there’s no gas fee. The network pays him for the privilege. $CHUCK #Solana"
+                },
+                {
+                    "id": "11",
+                    "text": "Why buy $CHUCK? Because when the market crashes, it’s just bowing to its king. CA: 9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM #Solana #BestMemeCoin"
+                },
+                {
+                    "id": "12",
+                    "text": "$$CHUCK isn’t just a meme—it’s the alpha and the omega of Solana. Other coins wish they were this legendary. #CryptoHumor"
+                },
+                {
+                    "id": "13",
+                    "text": "When $CHUCK launches, the blockchain doesn’t lag—it just takes a moment to appreciate greatness. CA: 9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM #Solana #CryptoRoast"
+                },
+                {
+                    "id": "14",
+                    "text": "Forget meme coins. $CHUCK is a lifestyle. It’s like owning a piece of Chuck Norris himself—just without the roundhouse. #CryptoHumor #Solana"
+                },
+                {
+                    "id": "15",
+                    "text": "They say not all heroes wear capes. But in crypto, they hold $CHUCK. CA: 9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM #CryptoMeme"
+                },
+                {
+                    "id": "16",
+                    "text": "When $CHUCK hit Solana, other tokens quietly moved to Ethereum out of fear. #ChuckNorrisCrypto"
+                },
+                {
+                    "id": "17",
+                    "text": "SYou don’t buy $CHUCK to moon. You buy it to watch other coins kneel. #Crypto #Solana #ChuckNorrisHumor"
+                },
+                {
+                    "id": "18",
+                    "text": "Crypto FOMO? $CHUCK doesn’t feel it. FOMO feels $CHUCK. #ChuckNorrisMemeCoin"
+                },
+                {
+                    "id": "19",
+                    "text": "$$CHUCK doesn’t follow market trends. It is the trend. CA: 9ntdcaW14MCmcsjUUveRBrA4C87NFRX8Ucf2UdY3FdQM #MemeCoinKing"
+                },
+                {
+                    "id": "20",
+                    "text": "The market doesn’t decide $CHUCK’s value. Chuck Norris does. Invest wisely. #CryptoHumor #Solana"
+                }
+            ]
         },
         {
             "id": "cat-theft-auto",
